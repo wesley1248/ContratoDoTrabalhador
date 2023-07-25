@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\contratoDoTrabalhador\contratoDoTrabalhador\obj\Debug\contratoDoTrabalhador.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\contratoDoTrabalhador\contratoDoTrabalhador\obj\Debug\contratoDoTrabalhador.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\contratoDoTrabalhador\contratoDoTrabalhador\obj\Debug\contratoDoTrabalhador.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\contratoDoTrabalhador\contratoDoTrabalhador\bin\Debug\contratoDoTrabalhador.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\contratoDoTrabalhador\contratoDoTrabalhador\bin\Debug\contratoDoTrabalhador.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\contratoDoTrabalhador\contratoDoTrabalhador\bin\Debug\contratoDoTrabalhador.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\contratoDoTrabalhador\contratoDoTrabalhador\obj\Debug\contratoDoTrabalhador.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\contratoDoTrabalhador\contratoDoTrabalhador\obj\Debug\contratoDoTrabalhador.pdb
